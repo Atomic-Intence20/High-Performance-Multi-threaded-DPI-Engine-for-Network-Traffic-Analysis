@@ -2,7 +2,7 @@
 
 
 This project implements a scalable Deep Packet Inspection (DPI) system that processes network traffic from PCAP files, enabling application-level classification, encrypted domain extraction via TLS SNI, and rule-based filtering. The engine supports both single-threaded and multi-threaded architectures, leveraging load balancing and concurrent processing to achieve high throughput and efficient traffic analysis.
----
+----
 
 ## Table of Contents
 
